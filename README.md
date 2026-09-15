@@ -6,6 +6,8 @@
 
 **Angular · TypeScript · Java · Spring Boot · MySQL**
 
+[Portfolio](https://portfoliodaviddiaz.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/daviddiazguerra/)
+
 </div>
 
 ## 👨‍💻 Sobre mí
@@ -42,7 +44,7 @@ Me interesa especialmente crear aplicaciones orientadas a resolver necesidades r
 
 ## 🚀 Proyectos
 
-### Portfolio Web Personal
+### [Portfolio Web Personal](https://portfoliodaviddiaz.vercel.app/)
 Portfolio profesional desarrollado con **Angular, TypeScript y Tailwind CSS**, orientado a presentar mi experiencia, proyectos y tecnologías.
 
 ### Sistema de gestión para taller GTA RP
@@ -57,5 +59,6 @@ Continúo reforzando mis conocimientos en **Angular, TypeScript, Java y Spring B
 
 ## 🤝 Contacto
 
+- [Portfolio](https://portfoliodaviddiaz.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/daviddiazguerra/)
 
