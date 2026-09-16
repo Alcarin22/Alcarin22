@@ -21,6 +21,7 @@ Me interesa especialmente crear aplicaciones orientadas a resolver necesidades r
 ## 🧰 Stack tecnológico
 
 ### Frontend
+
 - Angular
 - TypeScript
 - HTML5
@@ -29,29 +30,44 @@ Me interesa especialmente crear aplicaciones orientadas a resolver necesidades r
 - JavaScript
 
 ### Backend
+
 - Java
 - Spring Boot
 - REST
+- Spring Security
 
 ### Bases de datos
+
 - MySQL
 - SQL
 
 ### Herramientas y flujo de trabajo
+
 - Git
 - GitHub
+- OAuth2
+- JWT
 - Integración continua y despliegues
 
 ## 🚀 Proyectos
 
-### [Portfolio Web Personal](https://portfoliodaviddiaz.vercel.app/)
+### [Sistema de gestión para taller GTA RP](https://github.com/Alcarin22/LSCCentral.OryzonRP)
+
+Aplicación web Full Stack para centralizar la gestión interna de un taller dentro de una comunidad de GTA Roleplay.
+
+Desarrollada con **Angular, TypeScript, Tailwind CSS, Java, Spring Boot y MySQL**, con autenticación mediante **Discord OAuth2**, sesiones mediante **JWT** y control de acceso basado en permisos.
+
+### [Portfolio Web Personal](https://github.com/Alcarin22/portfolio-david-diaz)
+
 Portfolio profesional desarrollado con **Angular, TypeScript y Tailwind CSS**, orientado a presentar mi experiencia, proyectos y tecnologías.
 
-### Sistema de gestión para taller GTA RP
-Aplicación Full Stack para centralizar la gestión interna de un taller dentro de una comunidad de GTA Roleplay. Desarrollada con **Angular, TypeScript, Tailwind CSS, Java, Spring Boot y MySQL**, con autenticación mediante **Discord OAuth2**.
+[Ver portfolio online](https://portfoliodaviddiaz.vercel.app/)
 
 ### Simracing Management
-Proyecto personal Full Stack actualmente en desarrollo privado, orientado al ámbito del simracing. Sus funcionalidades y detalles técnicos se mantienen privados hasta su presentación pública.
+
+Proyecto personal Full Stack actualmente en desarrollo privado, orientado al ámbito del simracing.
+
+Sus funcionalidades y detalles técnicos se mantienen privados hasta su presentación pública.
 
 ## 📚 Actualmente
 
@@ -61,4 +77,4 @@ Continúo reforzando mis conocimientos en **Angular, TypeScript, Java y Spring B
 
 - [Portfolio](https://portfoliodaviddiaz.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/daviddiazguerra/)
-
+- [GitHub](https://github.com/Alcarin22)
