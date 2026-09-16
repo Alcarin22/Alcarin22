@@ -14,7 +14,7 @@
 
 Soy desarrollador web Full Stack y trabajo en aplicaciones web que abarcan desde la interfaz de usuario hasta el desarrollo de APIs y la persistencia de datos.
 
-Trabajo principalmente con **Angular, TypeScript, HTML5, CSS y Tailwind CSS** en frontend, y con **Java, Spring Boot y MySQL** en backend. También utilizo **Git, GitHub, SQL y APIs REST** dentro de mi flujo de desarrollo.
+Trabajo principalmente con **Angular, TypeScript, HTML5, CSS y Tailwind CSS** en frontend, y con **Java, Spring Boot y MySQL** en backend. También utilizo **Git, GitHub, SQL, APIs REST y Node.js** dentro de mi flujo de desarrollo.
 
 Me interesa especialmente crear aplicaciones orientadas a resolver necesidades reales y continuar profundizando en buenas prácticas, arquitectura y calidad de código.
 
@@ -29,12 +29,13 @@ Me interesa especialmente crear aplicaciones orientadas a resolver necesidades r
 - Tailwind CSS
 - JavaScript
 
-### Backend
+### Backend y automatización
 
 - Java
 - Spring Boot
 - REST
 - Spring Security
+- Node.js
 
 ### Bases de datos
 
@@ -57,17 +58,19 @@ Aplicación web Full Stack para centralizar la gestión interna de un taller den
 
 Desarrollada con **Angular, TypeScript, Tailwind CSS, Java, Spring Boot y MySQL**, con autenticación mediante **Discord OAuth2**, sesiones mediante **JWT** y control de acceso basado en permisos.
 
-### [Portfolio Web Personal](https://github.com/Alcarin22/portfolio-david-diaz)
-
-Portfolio profesional desarrollado con **Angular, TypeScript y Tailwind CSS**, orientado a presentar mi experiencia, proyectos y tecnologías.
-
-[Ver portfolio online](https://portfoliodaviddiaz.vercel.app/)
-
 ### [Bot de Carreras Diarias de Gran Turismo 7](https://github.com/Alcarin22/gt7-daily-bot)
 
 Bot de Discord desarrollado con **Node.js y JavaScript** para recopilar, procesar y publicar automáticamente información sobre las Carreras Diarias de Gran Turismo 7.
 
 El proyecto utiliza **Discord.js, Axios, Cheerio, Luxon y node-cron**, e incluye publicación manual mediante comandos y automatización semanal.
+
+> 🚧 Proyecto actualmente en desarrollo.
+
+### [Portfolio Web Personal](https://github.com/Alcarin22/portfolio-david-diaz)
+
+Portfolio profesional desarrollado con **Angular, TypeScript y Tailwind CSS**, orientado a presentar mi experiencia, proyectos y tecnologías.
+
+[Ver portfolio online](https://portfoliodaviddiaz.vercel.app/)
 
 ### Simracing Management
 
