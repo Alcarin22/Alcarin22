@@ -63,6 +63,12 @@ Portfolio profesional desarrollado con **Angular, TypeScript y Tailwind CSS**, o
 
 [Ver portfolio online](https://portfoliodaviddiaz.vercel.app/)
 
+### [Bot de Carreras Diarias de Gran Turismo 7](https://github.com/Alcarin22/gt7-daily-bot)
+
+Bot de Discord desarrollado con **Node.js y JavaScript** para recopilar, procesar y publicar automáticamente información sobre las Carreras Diarias de Gran Turismo 7.
+
+El proyecto utiliza **Discord.js, Axios, Cheerio, Luxon y node-cron**, e incluye publicación manual mediante comandos y automatización semanal.
+
 ### Simracing Management
 
 Proyecto personal Full Stack actualmente en desarrollo privado, orientado al ámbito del simracing.
